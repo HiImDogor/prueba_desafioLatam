@@ -128,18 +128,6 @@ body {
   border-radius: 0.5rem;
 }
 
-.hero {
-  background: linear-gradient(to right, #0d6efd, #0b5ed7);
-  color: white;
-  padding: 4rem 1rem;
-  text-align: center;
-}
-
-.hero h1 {
-  font-size: 3rem;
-  font-weight: bold;
-}
-
 .project-card {
   background-color: #fff;
   border-radius: 1rem;
