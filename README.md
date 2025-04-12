@@ -44,12 +44,6 @@ He contribuido con los siguientes repositorios de mis compañeros:
 
 ---
 
-## 📷 Capturas de evidencia
-
-(Puedes insertar las capturas con Markdown si quieres, o indicar que están adjuntas en un `.zip`)
-
----
-
 ## ✨ Autor
 
 **Carlos Bórquez Vidal**  
