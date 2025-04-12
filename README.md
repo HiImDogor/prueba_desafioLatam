@@ -34,13 +34,13 @@ He contribuido con los siguientes repositorios de mis compañeros:
 
 ### 🔹 Fork 1
 
-- Repositorio: [https://github.com/hiimdogor/fork-proyecto-compa1](https://github.com/hiimdogor/fork-proyecto-compa1)
-- Commit realizado: `Fix ortografía en index.html`
+- Repositorio: [https://github.com/HiImDogor/proyecto-compa1](https://github.com/hiimdogor/proyecto-compa1)
+- Commit realizado: `Mejora de la estructura html y css de la sección portafolio`
 
 ### 🔹 Fork 2
 
-- Repositorio: [https://github.com/hiimdogor/fork-proyecto-compa2](https://github.com/hiimdogor/fork-proyecto-compa2)
-- Commit realizado: `Cambios menores en diseño CSS`
+- Repositorio: [https://github.com/HiImDogor/proyecto-compa2](https://github.com/hiimdogor/proyecto-compa2)
+- Commit realizado: `Se añade ejemplo de estructura de proyectos, ya que no existen estos.`
 
 ---
 
