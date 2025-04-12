@@ -128,6 +128,41 @@ body {
   border-radius: 0.5rem;
 }
 
+.hero {
+  background: linear-gradient(to right, #0d6efd, #0b5ed7);
+  color: white;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.project-card {
+  background-color: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.tech-used {
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
 footer {
   background-color: #f1f1f1;
   padding: 2rem 0;
